@@ -4,7 +4,7 @@ Steps Involves:
 
 + With the beautifulsoup module in python
 1. Scraping Stock data tickers from slickcharts.com
-2. Scraping the stock data of all companies within the S & P 500 from the year 2000-2017
+2. Scraping the stock data of all companies within the S & P 500 from the year 2010-2018
 
 + Pre-processing of each dataset and combining all of them into one major dataset.
 
